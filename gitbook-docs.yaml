@@ -27,6 +27,5 @@ site:
           title: Discord Markdown
           path: product-docs
           default: true
-          draft: true
           content:
             directory: ./discord-markdown/product-docs
