@@ -7,7 +7,7 @@ icon: rocket-launch
 
 New to the platform? These pages walk you through everything you need to know to ship something real.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><strong>Quickstart</strong></td><td>Go from sign-up to your first deploy in under five minutes.</td><td><a href="quickstart.md">quickstart.md</a></td></tr><tr><td><h4><i class="fa-compass" style="color:$primary;">:compass:</i></h4></td><td><strong>Your first project</strong></td><td>A guided walkthrough that takes you from an empty workspace to a configured, deployed project.</td><td><a href="your-first-project.md">your-first-project.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-rocket-launch" style="color:$primary;">:rocket-launch:</i></h4></td><td><strong>Quickstart</strong></td><td>Go from sign-up to your first deploy in under five minutes.</td><td><a href="recommended-discord-bots.md">recommended-discord-bots.md</a></td></tr><tr><td><h4><i class="fa-compass" style="color:$primary;">:compass:</i></h4></td><td><strong>Your first project</strong></td><td>A guided walkthrough that takes you from an empty workspace to a configured, deployed project.</td><td><a href="your-first-project.md">your-first-project.md</a></td></tr></tbody></table>
 
 ## What you'll need
 

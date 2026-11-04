@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [Getting started](getting-started/getting-started.md)
-* [Quickstart](getting-started/quickstart.md)
+* [Recommended Discord Bots](getting-started/recommended-discord-bots.md)
 * [Your first project](getting-started/your-first-project.md)
 
 ## Core concepts
