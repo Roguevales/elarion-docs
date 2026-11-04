@@ -1,0 +1,32 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Elarion Docs
+  structure:
+    - type: section
+      key: section-1
+      title: Elarion Docs
+      path: elarion-docs
+      description: Markdown lets you style and organize your Discord messages with simple text symbols. This guide covers the available formatting options and explains how to use each one effectively.
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Elarion Docs
+          path: documentation
+          default: true
+          content:
+            directory: ./documentation
+    - type: section
+      key: section-2
+      title: Discord Markdown
+      path: discord-markdown
+      description: Markdown lets you style and organize your Discord messages with simple text symbols. This guide covers the available formatting options and explains how to use each one effectively.
+      children:
+        - type: space
+          key: space-2
+          title: Discord Markdown
+          path: product-docs
+          default: true
+          draft: true
+          content:
+            directory: ./discord-markdown/product-docs
