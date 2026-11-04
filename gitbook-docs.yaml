@@ -7,7 +7,6 @@ site:
       title: Elarion Docs
       path: elarion-docs
       description: Markdown lets you style and organize your Discord messages with simple text symbols. This guide covers the available formatting options and explains how to use each one effectively.
-      default: true
       children:
         - type: space
           key: space-1
@@ -21,6 +20,7 @@ site:
       title: Discord Markdown
       path: discord-markdown
       description: Markdown lets you style and organize your Discord messages with simple text symbols. This guide covers the available formatting options and explains how to use each one effectively.
+      default: true
       children:
         - type: space
           key: space-2
