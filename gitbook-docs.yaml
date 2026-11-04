@@ -4,13 +4,14 @@ site:
   structure:
     - type: section
       key: section-1
-      title: Elarion Docs
-      path: elarion-docs
-      description: Markdown lets you style and organize your Discord messages with simple text symbols. This guide covers the available formatting options and explains how to use each one effectively.
+      title: Start Here
+      path: start-here
+      description: Begin with the essentials, learn how the documentation is organized, and find the right guide quickly.
+      icon: compass
       children:
         - type: space
           key: space-1
-          title: Elarion Docs
+          title: Start Here
           path: documentation
           default: true
           content:
