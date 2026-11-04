@@ -5,7 +5,8 @@
 ## Getting Started
 
 * [Getting started](getting-started/getting-started.md)
-* [Recommended Discord Bots](getting-started/recommended-discord-bots.md)
+* [Recommended Discord Bots](getting-started/recommended-discord-bots/README.md)
+  * [Server Design Resources](getting-started/recommended-discord-bots/server-design-resources.md)
 * [Your first project](getting-started/your-first-project.md)
 
 ## Core concepts
@@ -25,7 +26,3 @@
 * [Reference](reference/reference.md)
 * [Configuration](reference/configuration.md)
 * [Glossary](reference/glossary.md)
-
-***
-
-* [Server Design Resources](server-design-resources.md)
