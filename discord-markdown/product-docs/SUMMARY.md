@@ -25,3 +25,7 @@
 * [Reference](reference/reference.md)
 * [Configuration](reference/configuration.md)
 * [Glossary](reference/glossary.md)
+
+***
+
+* [Server Design Resources](server-design-resources.md)
