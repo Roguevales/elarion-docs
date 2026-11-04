@@ -5,9 +5,8 @@
 ## Getting Started
 
 * [Getting started](getting-started/getting-started.md)
-* [Recommended Discord Bots](getting-started/recommended-discord-bots/README.md)
-  * [Server Design Resources](getting-started/recommended-discord-bots/server-design-resources.md)
-* [Your first project](getting-started/your-first-project.md)
+* [Recommended Discord Bots](getting-started/recommended-discord-bots.md)
+* [Server Design Resources](getting-started/server-design-resources.md)
 
 ## Core concepts
 
