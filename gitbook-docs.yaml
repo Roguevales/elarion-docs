@@ -20,7 +20,7 @@ site:
       key: section-2
       title: Discord Markdown
       path: discord-markdown
-      description: Markdown lets you style and organize your Discord messages with simple text symbols. This guide covers the available formatting options and explains how to use each one effectively.
+      description: A practical reference for Discord text formatting, message styling, code blocks, links, lists, and other Markdown syntax.
       default: true
       children:
         - type: space
